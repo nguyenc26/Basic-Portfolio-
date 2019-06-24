@@ -14,8 +14,8 @@ header {
     background-color: #ffffff;
     padding: 20px;
     margin-bottom: 25px;
-
 }
+
 nav {
     float: right;
 }
@@ -24,13 +24,12 @@ nav {
     width: 960px;
     background-color: #ffffff;
     border-color: #dddddd;
-    overflow: auto;
     padding: 20px;
+    margin: 10px auto 0 auto;
     position: fixed;
     float: right;
     position: relative;
     right: 20%;
-    text-align: left;
 }
 
 h2 { 
