@@ -28,10 +28,15 @@ nav {
     overflow: auto;
     padding: 20px;
     position: fixed;
+}
 
+img {
+    float: left;
+    padding: 10px;
 }
 
 .bio {
+    padding: 10px;
 }
 
 .footer {
