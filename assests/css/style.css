@@ -4,9 +4,9 @@
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color:gray;
     height: 100%;
     margin: 0;
+    background: url(../images/memphis-mini-dark.png);
 }
 
 header {
@@ -28,8 +28,13 @@ nav {
     overflow: auto;
     padding: 20px;
     position: fixed;
+    clear: both;
 }
+h2 { 
+    color: #4aaaa5;
+    font-display: bold;
 
+}
 img {
     float: left;
     padding: 10px;
