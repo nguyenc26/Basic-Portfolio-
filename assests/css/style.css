@@ -21,7 +21,6 @@ nav {
 }
 
 .content {
-    margin: auto;
     width: 960px;
     background-color: #ffffff;
     border-color: #dddddd;
@@ -44,7 +43,7 @@ img {
     padding: 10px;
 }
 
-.footer {
+footer {
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
     height: 50px;
