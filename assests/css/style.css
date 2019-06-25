@@ -14,8 +14,22 @@ header {
     background-color: #ffffff;
     padding: 20px;
     margin-bottom: 25px;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
+.headerclass{
+    width: 960px;
+    margin-left: auto;
+    margin-right: 19%;
+}
+
+.name {
+    float:left; 
+    background-color: #4aaaa5;
+    color: #ffffff;  
+}
 nav {
     float: right;
 }
@@ -25,7 +39,7 @@ nav {
     background-color: #ffffff;
     border-color: #dddddd;
     padding: 20px;
-    margin: 10px auto 0 auto;
+    margin: 75px auto 0 auto;
     position: fixed;
     float: right;
     position: relative;
