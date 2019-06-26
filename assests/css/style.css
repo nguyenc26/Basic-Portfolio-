@@ -45,17 +45,15 @@ nav {
     border-color: #dddddd;
     padding: 20px;
     margin: 90px auto 0 auto;
-    position: fixed;
     float: right;
     position: relative;
-    right: 20%;
+    right: 19.8%;<!-- is there a better way to align this with the header?-->
 }
 
 h2 { 
     color: #4aaaa5;
     font-display: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
-
 }
 
 img {
@@ -71,6 +69,22 @@ img {
     content: "";
     clear: both;
     display: table;
+}
+
+<!--Images in portfolio-->
+.containerhangman {
+        position: relative;
+        text-align: center;
+        color: white;
+}
+.hangman {
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px; 
+    width: 240px;
+    height: 60px;
+    text-align: center;
 }
 
 footer {
