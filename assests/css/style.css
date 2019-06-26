@@ -30,7 +30,8 @@ header {
     float:left; 
     background-color: #4aaaa5;
     color: #ffffff;
-    padding: 20px;  
+    padding: 20px; 
+    font-size: 1.5em; 
 }
 
 nav {
@@ -43,7 +44,7 @@ nav {
     background-color: #ffffff;
     border-color: #dddddd;
     padding: 20px;
-    margin: 75px auto 0 auto;
+    margin: 90px auto 0 auto;
     position: fixed;
     float: right;
     position: relative;
