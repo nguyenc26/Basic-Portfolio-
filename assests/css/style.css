@@ -28,7 +28,9 @@ header {
 .name {
     float:left; 
     background-color: #4aaaa5;
-    color: #ffffff;  
+    color: #ffffff;
+    padding: 20px;  
+    <!-- if I change the padding the entire bar will expand, how do i make it so that the box is the same size as the header-->
 }
 nav {
     float: right;
