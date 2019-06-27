@@ -93,16 +93,67 @@ img {
     color: white;
 }
 .RPG {
-float: left;
-background-color: #4aaaa5;
-color: #ffffff;
-padding: 20px; 
-width: 240px;
-height: 60px;
-text-align: center;
-position: absolute;
-margin-top: 165px;
-margin-left: 270px;
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px; 
+    width: 240px;
+    height: 60px;
+    text-align: center;
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 270px;
+}
+
+.containertrvia {
+    text-align: center;
+    color: white;
+}
+.trivia {
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px; 
+    width: 240px;
+    height: 60px;
+    text-align: center;
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 10px;
+}
+
+.containerrutgers {
+    text-align: center;
+    color: white;
+}
+.rutgers {
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px; 
+    width: 240px;
+    height: 60px;
+    text-align: center;
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 270px;
+}
+
+.containerrps {
+    text-align: center;
+    color: white;
+}
+.rps {
+    float: left;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20px; 
+    width: 240px;
+    height: 60px;
+    text-align: center;
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 10px;
 }
 
 footer {
