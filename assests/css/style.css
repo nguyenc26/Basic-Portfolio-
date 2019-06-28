@@ -43,11 +43,11 @@ nav {
     width: 960px;
     background-color: #ffffff;
     border-color: #dddddd;
-    padding: 20px;
+    padding: 20px 20px 70px 20px;
     margin: 90px auto 0 auto;
     float: right;
     position: relative;
-    right: 19.8%;<!-- is there a better way to align this with the header?-->
+    right: 19.8%;
 }
 
 h2 { 
@@ -72,8 +72,8 @@ img {
 }
 
 .containerhangman {
-        text-align: center;
-        color: white;
+    text-align: center;
+    color: white;
 }
 .hangman {
     float: left;
@@ -105,55 +105,24 @@ img {
     margin-left: 270px;
 }
 
-.containertrvia {
-    text-align: center;
-    color: white;
-}
-.trivia {
-    float: left;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    padding: 20px; 
-    width: 240px;
-    height: 60px;
-    text-align: center;
-    position: absolute;
-    margin-top: 165px;
-    margin-left: 10px;
+.form {
+    font-size: 1.25em; 
 }
 
-.containerrutgers {
-    text-align: center;
-    color: white;
-}
-.rutgers {
-    float: left;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    padding: 20px; 
-    width: 240px;
-    height: 60px;
-    text-align: center;
-    position: absolute;
-    margin-top: 165px;
-    margin-left: 270px;
+.box { 
+    width: 100%;
 }
 
-.containerrps {
-    text-align: center;
-    color: white;
+.box2 {
+    width: 100%;
+    height: 200px;
 }
-.rps {
-    float: left;
+
+.button{
     background-color: #4aaaa5;
     color: #ffffff;
-    padding: 20px; 
-    width: 240px;
-    height: 60px;
-    text-align: center;
-    position: absolute;
-    margin-top: 165px;
-    margin-left: 10px;
+    padding: 10px; 
+    font-size: 1em;
 }
 
 footer {
