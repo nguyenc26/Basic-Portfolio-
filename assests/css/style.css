@@ -71,11 +71,11 @@ img {
     display: table;
 }
 
-.containerhangman {
+.containertext {
     text-align: center;
     color: white;
 }
-.hangman {
+.leftbox {
     float: left;
     background-color: #4aaaa5;
     color: #ffffff;
@@ -88,11 +88,7 @@ img {
     margin-left: 10px;
 }
 
-.containerrpg {
-    text-align: center;
-    color: white;
-}
-.RPG {
+.rightbox {
     float: left;
     background-color: #4aaaa5;
     color: #ffffff;
